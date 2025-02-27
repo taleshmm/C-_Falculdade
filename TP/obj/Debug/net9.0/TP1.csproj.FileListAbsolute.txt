@@ -1,0 +1,14 @@
+/Users/talesmelo/Developer/Class_C#_Infent/TP/bin/Debug/net9.0/TP
+/Users/talesmelo/Developer/Class_C#_Infent/TP/bin/Debug/net9.0/TP.deps.json
+/Users/talesmelo/Developer/Class_C#_Infent/TP/bin/Debug/net9.0/TP.runtimeconfig.json
+/Users/talesmelo/Developer/Class_C#_Infent/TP/bin/Debug/net9.0/TP.dll
+/Users/talesmelo/Developer/Class_C#_Infent/TP/bin/Debug/net9.0/TP.pdb
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/TP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/TP.AssemblyInfoInputs.cache
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/TP.AssemblyInfo.cs
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/TP.csproj.CoreCompileInputs.cache
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/TP.dll
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/refint/TP.dll
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/TP.pdb
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/TP.genruntimeconfig.cache
+/Users/talesmelo/Developer/Class_C#_Infent/TP/obj/Debug/net9.0/ref/TP.dll
